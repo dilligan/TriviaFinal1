@@ -1,0 +1,458 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3F0846DA13E213210023A855 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F0846D913E213210023A855 /* UIKit.framework */; };
+		3F0846DC13E213210023A855 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F0846DB13E213210023A855 /* Foundation.framework */; };
+		3F0846DE13E213210023A855 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F0846DD13E213210023A855 /* CoreGraphics.framework */; };
+		3F0846E413E213210023A855 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3F0846E213E213210023A855 /* InfoPlist.strings */; };
+		3F0846E713E213210023A855 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F0846E613E213210023A855 /* main.m */; };
+		3F0846EA13E213210023A855 /* TriviaAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F0846E913E213210023A855 /* TriviaAppDelegate.m */; };
+		3F0846ED13E213210023A855 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F0846EB13E213210023A855 /* MainWindow.xib */; };
+		3F0846F013E213210023A855 /* TriviaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F0846EF13E213210023A855 /* TriviaViewController.m */; };
+		3F0846F313E213210023A855 /* TriviaViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F0846F113E213210023A855 /* TriviaViewController.xib */; };
+		3F0846FA13E213210023A855 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F0846D913E213210023A855 /* UIKit.framework */; };
+		3F0846FB13E213210023A855 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F0846DB13E213210023A855 /* Foundation.framework */; };
+		3F0846FC13E213210023A855 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F0846DD13E213210023A855 /* CoreGraphics.framework */; };
+		3F08470413E213210023A855 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3F08470213E213210023A855 /* InfoPlist.strings */; };
+		3F08470713E213210023A855 /* TriviaTests.h in Resources */ = {isa = PBXBuildFile; fileRef = 3F08470613E213210023A855 /* TriviaTests.h */; };
+		3F08470913E213210023A855 /* TriviaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F08470813E213210023A855 /* TriviaTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3F0846FD13E213210023A855 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3F0846CC13E213200023A855 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3F0846D413E213210023A855;
+			remoteInfo = Trivia;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3F0846D513E213210023A855 /* Trivia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trivia.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F0846D913E213210023A855 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		3F0846DB13E213210023A855 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		3F0846DD13E213210023A855 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		3F0846E113E213210023A855 /* Trivia-Info.plist */ = {isa = PBXFileReference; path = "Trivia-Info.plist"; sourceTree = "<group>"; };
+		3F0846E313E213210023A855 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		3F0846E513E213210023A855 /* Trivia-Prefix.pch */ = {isa = PBXFileReference; path = "Trivia-Prefix.pch"; sourceTree = "<group>"; };
+		3F0846E613E213210023A855 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3F0846E813E213210023A855 /* TriviaAppDelegate.h */ = {isa = PBXFileReference; path = TriviaAppDelegate.h; sourceTree = "<group>"; };
+		3F0846E913E213210023A855 /* TriviaAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TriviaAppDelegate.m; sourceTree = "<group>"; };
+		3F0846EC13E213210023A855 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		3F0846EE13E213210023A855 /* TriviaViewController.h */ = {isa = PBXFileReference; path = TriviaViewController.h; sourceTree = "<group>"; };
+		3F0846EF13E213210023A855 /* TriviaViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TriviaViewController.m; sourceTree = "<group>"; };
+		3F0846F213E213210023A855 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/TriviaViewController.xib; sourceTree = "<group>"; };
+		3F0846F913E213210023A855 /* TriviaTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TriviaTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F08470113E213210023A855 /* TriviaTests-Info.plist */ = {isa = PBXFileReference; path = "TriviaTests-Info.plist"; sourceTree = "<group>"; };
+		3F08470313E213210023A855 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		3F08470513E213210023A855 /* TriviaTests-Prefix.pch */ = {isa = PBXFileReference; path = "TriviaTests-Prefix.pch"; sourceTree = "<group>"; };
+		3F08470613E213210023A855 /* TriviaTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TriviaTests.h; sourceTree = "<group>"; };
+		3F08470813E213210023A855 /* TriviaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TriviaTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3F0846D213E213210023A855 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F0846DA13E213210023A855 /* UIKit.framework in Frameworks */,
+				3F0846DC13E213210023A855 /* Foundation.framework in Frameworks */,
+				3F0846DE13E213210023A855 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F0846F513E213210023A855 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F0846FA13E213210023A855 /* UIKit.framework in Frameworks */,
+				3F0846FB13E213210023A855 /* Foundation.framework in Frameworks */,
+				3F0846FC13E213210023A855 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3F0846CA13E213200023A855 = {
+			isa = PBXGroup;
+			children = (
+				3F0846DF13E213210023A855 /* Trivia */,
+				3F0846FF13E213210023A855 /* TriviaTests */,
+				3F0846D813E213210023A855 /* Frameworks */,
+				3F0846D613E213210023A855 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3F0846D613E213210023A855 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3F0846D513E213210023A855 /* Trivia.app */,
+				3F0846F913E213210023A855 /* TriviaTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3F0846D813E213210023A855 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3F0846D913E213210023A855 /* UIKit.framework */,
+				3F0846DB13E213210023A855 /* Foundation.framework */,
+				3F0846DD13E213210023A855 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3F0846DF13E213210023A855 /* Trivia */ = {
+			isa = PBXGroup;
+			children = (
+				3F0846E813E213210023A855 /* TriviaAppDelegate.h */,
+				3F0846E913E213210023A855 /* TriviaAppDelegate.m */,
+				3F0846EB13E213210023A855 /* MainWindow.xib */,
+				3F0846EE13E213210023A855 /* TriviaViewController.h */,
+				3F0846EF13E213210023A855 /* TriviaViewController.m */,
+				3F0846F113E213210023A855 /* TriviaViewController.xib */,
+				3F0846E013E213210023A855 /* Supporting Files */,
+			);
+			path = Trivia;
+			sourceTree = "<group>";
+		};
+		3F0846E013E213210023A855 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3F0846E113E213210023A855 /* Trivia-Info.plist */,
+				3F0846E213E213210023A855 /* InfoPlist.strings */,
+				3F0846E513E213210023A855 /* Trivia-Prefix.pch */,
+				3F0846E613E213210023A855 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3F0846FF13E213210023A855 /* TriviaTests */ = {
+			isa = PBXGroup;
+			children = (
+				3F08470613E213210023A855 /* TriviaTests.h */,
+				3F08470813E213210023A855 /* TriviaTests.m */,
+				3F08470013E213210023A855 /* Supporting Files */,
+			);
+			path = TriviaTests;
+			sourceTree = "<group>";
+		};
+		3F08470013E213210023A855 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3F08470113E213210023A855 /* TriviaTests-Info.plist */,
+				3F08470213E213210023A855 /* InfoPlist.strings */,
+				3F08470513E213210023A855 /* TriviaTests-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3F0846D413E213210023A855 /* Trivia */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F08470C13E213210023A855 /* Build configuration list for PBXNativeTarget "Trivia" */;
+			buildPhases = (
+				3F0846D113E213210023A855 /* Sources */,
+				3F0846D213E213210023A855 /* Frameworks */,
+				3F0846D313E213210023A855 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Trivia;
+			productName = Trivia;
+			productReference = 3F0846D513E213210023A855 /* Trivia.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3F0846F813E213210023A855 /* TriviaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F08470F13E213210023A855 /* Build configuration list for PBXNativeTarget "TriviaTests" */;
+			buildPhases = (
+				3F0846F413E213210023A855 /* Sources */,
+				3F0846F513E213210023A855 /* Frameworks */,
+				3F0846F613E213210023A855 /* Resources */,
+				3F0846F713E213210023A855 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3F0846FE13E213210023A855 /* PBXTargetDependency */,
+			);
+			name = TriviaTests;
+			productName = TriviaTests;
+			productReference = 3F0846F913E213210023A855 /* TriviaTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3F0846CC13E213200023A855 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 3F0846CF13E213200023A855 /* Build configuration list for PBXProject "Trivia" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3F0846CA13E213200023A855;
+			productRefGroup = 3F0846D613E213210023A855 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3F0846D413E213210023A855 /* Trivia */,
+				3F0846F813E213210023A855 /* TriviaTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3F0846D313E213210023A855 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F0846E413E213210023A855 /* InfoPlist.strings in Resources */,
+				3F0846ED13E213210023A855 /* MainWindow.xib in Resources */,
+				3F0846F313E213210023A855 /* TriviaViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F0846F613E213210023A855 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F08470413E213210023A855 /* InfoPlist.strings in Resources */,
+				3F08470713E213210023A855 /* TriviaTests.h in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3F0846F713E213210023A855 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3F0846D113E213210023A855 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F0846E713E213210023A855 /* main.m in Sources */,
+				3F0846EA13E213210023A855 /* TriviaAppDelegate.m in Sources */,
+				3F0846F013E213210023A855 /* TriviaViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F0846F413E213210023A855 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F08470913E213210023A855 /* TriviaTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3F0846FE13E213210023A855 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3F0846D413E213210023A855 /* Trivia */;
+			targetProxy = 3F0846FD13E213210023A855 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3F0846E213E213210023A855 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3F0846E313E213210023A855 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		3F0846EB13E213210023A855 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3F0846EC13E213210023A855 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		3F0846F113E213210023A855 /* TriviaViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3F0846F213E213210023A855 /* en */,
+			);
+			name = TriviaViewController.xib;
+			sourceTree = "<group>";
+		};
+		3F08470213E213210023A855 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3F08470313E213210023A855 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3F08470A13E213210023A855 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		3F08470B13E213210023A855 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		3F08470D13E213210023A855 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Trivia/Trivia-Prefix.pch";
+				INFOPLIST_FILE = "Trivia/Trivia-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		3F08470E13E213210023A855 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Trivia/Trivia-Prefix.pch";
+				INFOPLIST_FILE = "Trivia/Trivia-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		3F08471013E213210023A855 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Trivia.app/Trivia";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TriviaTests/TriviaTests-Prefix.pch";
+				INFOPLIST_FILE = "TriviaTests/TriviaTests-Info.plist";
+				OTHER_LDFLAGS = (
+					"-framework",
+					SenTestingKit,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		3F08471113E213210023A855 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Trivia.app/Trivia";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TriviaTests/TriviaTests-Prefix.pch";
+				INFOPLIST_FILE = "TriviaTests/TriviaTests-Info.plist";
+				OTHER_LDFLAGS = (
+					"-framework",
+					SenTestingKit,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3F0846CF13E213200023A855 /* Build configuration list for PBXProject "Trivia" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F08470A13E213210023A855 /* Debug */,
+				3F08470B13E213210023A855 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F08470C13E213210023A855 /* Build configuration list for PBXNativeTarget "Trivia" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F08470D13E213210023A855 /* Debug */,
+				3F08470E13E213210023A855 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		3F08470F13E213210023A855 /* Build configuration list for PBXNativeTarget "TriviaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F08471013E213210023A855 /* Debug */,
+				3F08471113E213210023A855 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3F0846CC13E213200023A855 /* Project object */;
+}
