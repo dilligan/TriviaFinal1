@@ -7,6 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3364DE0713F2189000E1A1FF /* Question15.m in Sources */ = {isa = PBXBuildFile; fileRef = 3364DE0513F2189000E1A1FF /* Question15.m */; };
+		3364DE0813F2189000E1A1FF /* Question15.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3364DE0613F2189000E1A1FF /* Question15.xib */; };
+		33996D52140D4CD700F638F8 /* appback4.png in Resources */ = {isa = PBXBuildFile; fileRef = 33996D51140D4CD700F638F8 /* appback4.png */; };
+		33996D5C140D577800F638F8 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 33996D5B140D577800F638F8 /* Default.png */; };
+		33996D5D140D577800F638F8 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 33996D5B140D577800F638F8 /* Default.png */; };
+		33B295D114186E84008D24CF /* nebula.png in Resources */ = {isa = PBXBuildFile; fileRef = 33B295D014186E84008D24CF /* nebula.png */; };
+		33DA7F7D14199ABB00111921 /* aurora.png in Resources */ = {isa = PBXBuildFile; fileRef = 33DA7F7C14199ABB00111921 /* aurora.png */; };
+		33DA7F8B1419AFE000111921 /* smallappicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 33DA7F8A1419AFE000111921 /* smallappicon.png */; };
+		3F01209513EA24EE00FC9CAE /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F01209413EA24EE00FC9CAE /* background.png */; };
+		3F01209913EA4D2800FC9CAE /* winback.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F01209813EA4D2700FC9CAE /* winback.png */; };
+		3F01209B13EA4EFB00FC9CAE /* takeback.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F01209A13EA4EFB00FC9CAE /* takeback.png */; };
+		3F01209D13EA4FC200FC9CAE /* failback.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F01209C13EA4FC200FC9CAE /* failback.png */; };
+		3F0120AA13EA613A00FC9CAE /* viewback.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F0120A913EA613A00FC9CAE /* viewback.png */; };
+		3F05A5AE13E77E5000A40038 /* goforit.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F05A5AC13E77E4E00A40038 /* goforit.m */; };
+		3F05A5AF13E77E5000A40038 /* goforit.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F05A5AD13E77E4F00A40038 /* goforit.xib */; };
+		3F05A5B313E7809500A40038 /* win.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F05A5B113E7809300A40038 /* win.m */; };
+		3F05A5B413E7809500A40038 /* win.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F05A5B213E7809400A40038 /* win.xib */; };
 		3F0846DA13E213210023A855 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F0846D913E213210023A855 /* UIKit.framework */; };
 		3F0846DC13E213210023A855 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F0846DB13E213210023A855 /* Foundation.framework */; };
 		3F0846DE13E213210023A855 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F0846DD13E213210023A855 /* CoreGraphics.framework */; };
@@ -22,6 +39,17 @@
 		3F08470413E213210023A855 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3F08470213E213210023A855 /* InfoPlist.strings */; };
 		3F08470713E213210023A855 /* TriviaTests.h in Resources */ = {isa = PBXBuildFile; fileRef = 3F08470613E213210023A855 /* TriviaTests.h */; };
 		3F08470913E213210023A855 /* TriviaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F08470813E213210023A855 /* TriviaTests.m */; };
+		3F159FE213E88FB100C13002 /* takemoney.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F159FE013E88FAE00C13002 /* takemoney.m */; };
+		3F159FE313E88FB100C13002 /* takemoney.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F159FE113E88FB000C13002 /* takemoney.xib */; };
+		3F71FF7013E70D6200FB933B /* Instructions.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F71FF6E13E70D6200FB933B /* Instructions.m */; };
+		3F71FF7113E70D6200FB933B /* Instructions.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F71FF6F13E70D6200FB933B /* Instructions.xib */; };
+		3F71FF7E13E713A800FB933B /* Question1.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F71FF7C13E713A800FB933B /* Question1.m */; };
+		3F71FF7F13E713A800FB933B /* Question1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F71FF7D13E713A800FB933B /* Question1.xib */; };
+		3F71FF8813E7170300FB933B /* fail.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F71FF8613E7170300FB933B /* fail.m */; };
+		3F71FF8913E7170300FB933B /* fail.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F71FF8713E7170300FB933B /* fail.xib */; };
+		B3289DFC165ED59800AE6D37 /* Stats.m in Sources */ = {isa = PBXBuildFile; fileRef = B3289DFA165ED59800AE6D37 /* Stats.m */; };
+		B3289DFD165ED59800AE6D37 /* Stats.xib in Resources */ = {isa = PBXBuildFile; fileRef = B3289DFB165ED59800AE6D37 /* Stats.xib */; };
+		B3289E00165ED5EF00AE6D37 /* metalback2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B3289DFF165ED5EF00AE6D37 /* metalback2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,26 +63,61 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3364DE0413F2189000E1A1FF /* Question15.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Question15.h; sourceTree = "<group>"; };
+		3364DE0513F2189000E1A1FF /* Question15.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Question15.m; sourceTree = "<group>"; };
+		3364DE0613F2189000E1A1FF /* Question15.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Question15.xib; sourceTree = "<group>"; };
+		33996D51140D4CD700F638F8 /* appback4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = appback4.png; path = ../../Desktop/appback4.png; sourceTree = SOURCE_ROOT; };
+		33996D5B140D577800F638F8 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		33B295D014186E84008D24CF /* nebula.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nebula.png; path = ../nebula.png; sourceTree = SOURCE_ROOT; };
+		33DA7F7C14199ABB00111921 /* aurora.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = aurora.png; path = ../aurora.png; sourceTree = SOURCE_ROOT; };
+		33DA7F8A1419AFE000111921 /* smallappicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = smallappicon.png; path = ../smallappicon.png; sourceTree = SOURCE_ROOT; };
+		3F01209413EA24EE00FC9CAE /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		3F01209813EA4D2700FC9CAE /* winback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = winback.png; sourceTree = "<group>"; };
+		3F01209A13EA4EFB00FC9CAE /* takeback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = takeback.png; sourceTree = "<group>"; };
+		3F01209C13EA4FC200FC9CAE /* failback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = failback.png; sourceTree = "<group>"; };
+		3F0120A913EA613A00FC9CAE /* viewback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = viewback.png; sourceTree = "<group>"; };
+		3F05A5AB13E77E4D00A40038 /* goforit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = goforit.h; sourceTree = "<group>"; };
+		3F05A5AC13E77E4E00A40038 /* goforit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = goforit.m; sourceTree = "<group>"; };
+		3F05A5AD13E77E4F00A40038 /* goforit.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = goforit.xib; sourceTree = "<group>"; };
+		3F05A5B013E7809200A40038 /* win.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = win.h; sourceTree = "<group>"; };
+		3F05A5B113E7809300A40038 /* win.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = win.m; sourceTree = "<group>"; };
+		3F05A5B213E7809400A40038 /* win.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = win.xib; sourceTree = "<group>"; };
 		3F0846D513E213210023A855 /* Trivia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trivia.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F0846D913E213210023A855 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		3F0846DB13E213210023A855 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3F0846DD13E213210023A855 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		3F0846E113E213210023A855 /* Trivia-Info.plist */ = {isa = PBXFileReference; path = "Trivia-Info.plist"; sourceTree = "<group>"; };
+		3F0846E113E213210023A855 /* Trivia-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Trivia-Info.plist"; sourceTree = "<group>"; };
 		3F0846E313E213210023A855 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		3F0846E513E213210023A855 /* Trivia-Prefix.pch */ = {isa = PBXFileReference; path = "Trivia-Prefix.pch"; sourceTree = "<group>"; };
+		3F0846E513E213210023A855 /* Trivia-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Trivia-Prefix.pch"; sourceTree = "<group>"; };
 		3F0846E613E213210023A855 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3F0846E813E213210023A855 /* TriviaAppDelegate.h */ = {isa = PBXFileReference; path = TriviaAppDelegate.h; sourceTree = "<group>"; };
+		3F0846E813E213210023A855 /* TriviaAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TriviaAppDelegate.h; sourceTree = "<group>"; };
 		3F0846E913E213210023A855 /* TriviaAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TriviaAppDelegate.m; sourceTree = "<group>"; };
 		3F0846EC13E213210023A855 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		3F0846EE13E213210023A855 /* TriviaViewController.h */ = {isa = PBXFileReference; path = TriviaViewController.h; sourceTree = "<group>"; };
+		3F0846EE13E213210023A855 /* TriviaViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TriviaViewController.h; sourceTree = "<group>"; };
 		3F0846EF13E213210023A855 /* TriviaViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TriviaViewController.m; sourceTree = "<group>"; };
 		3F0846F213E213210023A855 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/TriviaViewController.xib; sourceTree = "<group>"; };
 		3F0846F913E213210023A855 /* TriviaTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TriviaTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		3F08470113E213210023A855 /* TriviaTests-Info.plist */ = {isa = PBXFileReference; path = "TriviaTests-Info.plist"; sourceTree = "<group>"; };
+		3F08470113E213210023A855 /* TriviaTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TriviaTests-Info.plist"; sourceTree = "<group>"; };
 		3F08470313E213210023A855 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		3F08470513E213210023A855 /* TriviaTests-Prefix.pch */ = {isa = PBXFileReference; path = "TriviaTests-Prefix.pch"; sourceTree = "<group>"; };
+		3F08470513E213210023A855 /* TriviaTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TriviaTests-Prefix.pch"; sourceTree = "<group>"; };
 		3F08470613E213210023A855 /* TriviaTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TriviaTests.h; sourceTree = "<group>"; };
 		3F08470813E213210023A855 /* TriviaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TriviaTests.m; sourceTree = "<group>"; };
+		3F159FDF13E88FAD00C13002 /* takemoney.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = takemoney.h; sourceTree = "<group>"; };
+		3F159FE013E88FAE00C13002 /* takemoney.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = takemoney.m; sourceTree = "<group>"; };
+		3F159FE113E88FB000C13002 /* takemoney.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = takemoney.xib; sourceTree = "<group>"; };
+		3F71FF6D13E70D6200FB933B /* Instructions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Instructions.h; sourceTree = "<group>"; };
+		3F71FF6E13E70D6200FB933B /* Instructions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Instructions.m; sourceTree = "<group>"; };
+		3F71FF6F13E70D6200FB933B /* Instructions.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Instructions.xib; sourceTree = "<group>"; };
+		3F71FF7B13E713A800FB933B /* Question1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Question1.h; sourceTree = "<group>"; };
+		3F71FF7C13E713A800FB933B /* Question1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Question1.m; sourceTree = "<group>"; };
+		3F71FF7D13E713A800FB933B /* Question1.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Question1.xib; sourceTree = "<group>"; };
+		3F71FF8513E7170300FB933B /* fail.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fail.h; sourceTree = "<group>"; };
+		3F71FF8613E7170300FB933B /* fail.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = fail.m; sourceTree = "<group>"; };
+		3F71FF8713E7170300FB933B /* fail.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = fail.xib; sourceTree = "<group>"; };
+		B3289DF9165ED59800AE6D37 /* Stats.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Stats.h; sourceTree = "<group>"; };
+		B3289DFA165ED59800AE6D37 /* Stats.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Stats.m; sourceTree = "<group>"; };
+		B3289DFB165ED59800AE6D37 /* Stats.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Stats.xib; sourceTree = "<group>"; };
+		B3289DFF165ED5EF00AE6D37 /* metalback2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = metalback2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +144,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3F01209313EA24A300FC9CAE /* Photos */ = {
+			isa = PBXGroup;
+			children = (
+				B3289DFF165ED5EF00AE6D37 /* metalback2.jpg */,
+				33DA7F7C14199ABB00111921 /* aurora.png */,
+				33B295D014186E84008D24CF /* nebula.png */,
+				3F01209413EA24EE00FC9CAE /* background.png */,
+				3F01209813EA4D2700FC9CAE /* winback.png */,
+				3F01209A13EA4EFB00FC9CAE /* takeback.png */,
+				3F01209C13EA4FC200FC9CAE /* failback.png */,
+				3F0120A913EA613A00FC9CAE /* viewback.png */,
+				33996D51140D4CD700F638F8 /* appback4.png */,
+				33DA7F8A1419AFE000111921 /* smallappicon.png */,
+			);
+			name = Photos;
+			sourceTree = "<group>";
+		};
 		3F0846CA13E213200023A855 = {
 			isa = PBXGroup;
 			children = (
@@ -88,6 +168,7 @@
 				3F0846FF13E213210023A855 /* TriviaTests */,
 				3F0846D813E213210023A855 /* Frameworks */,
 				3F0846D613E213210023A855 /* Products */,
+				33996D5B140D577800F638F8 /* Default.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -119,6 +200,15 @@
 				3F0846EE13E213210023A855 /* TriviaViewController.h */,
 				3F0846EF13E213210023A855 /* TriviaViewController.m */,
 				3F0846F113E213210023A855 /* TriviaViewController.xib */,
+				3F71FF6D13E70D6200FB933B /* Instructions.h */,
+				3F71FF6E13E70D6200FB933B /* Instructions.m */,
+				3F71FF6F13E70D6200FB933B /* Instructions.xib */,
+				B3289DF9165ED59800AE6D37 /* Stats.h */,
+				B3289DFA165ED59800AE6D37 /* Stats.m */,
+				B3289DFB165ED59800AE6D37 /* Stats.xib */,
+				3F01209313EA24A300FC9CAE /* Photos */,
+				3F6C785513E9AEFA008DB4A0 /* Universal */,
+				3F6C785313E9AE02008DB4A0 /* Group 1 */,
 				3F0846E013E213210023A855 /* Supporting Files */,
 			);
 			path = Trivia;
@@ -153,6 +243,38 @@
 				3F08470513E213210023A855 /* TriviaTests-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3F6C785313E9AE02008DB4A0 /* Group 1 */ = {
+			isa = PBXGroup;
+			children = (
+				3F71FF7B13E713A800FB933B /* Question1.h */,
+				3F71FF7C13E713A800FB933B /* Question1.m */,
+				3F71FF7D13E713A800FB933B /* Question1.xib */,
+				3364DE0413F2189000E1A1FF /* Question15.h */,
+				3364DE0513F2189000E1A1FF /* Question15.m */,
+				3364DE0613F2189000E1A1FF /* Question15.xib */,
+			);
+			name = "Group 1";
+			sourceTree = "<group>";
+		};
+		3F6C785513E9AEFA008DB4A0 /* Universal */ = {
+			isa = PBXGroup;
+			children = (
+				3F71FF8513E7170300FB933B /* fail.h */,
+				3F71FF8613E7170300FB933B /* fail.m */,
+				3F71FF8713E7170300FB933B /* fail.xib */,
+				3F159FDF13E88FAD00C13002 /* takemoney.h */,
+				3F159FE013E88FAE00C13002 /* takemoney.m */,
+				3F159FE113E88FB000C13002 /* takemoney.xib */,
+				3F05A5AB13E77E4D00A40038 /* goforit.h */,
+				3F05A5AC13E77E4E00A40038 /* goforit.m */,
+				3F05A5AD13E77E4F00A40038 /* goforit.xib */,
+				3F05A5B013E7809200A40038 /* win.h */,
+				3F05A5B113E7809300A40038 /* win.m */,
+				3F05A5B213E7809400A40038 /* win.xib */,
+			);
+			name = Universal;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -225,6 +347,25 @@
 				3F0846E413E213210023A855 /* InfoPlist.strings in Resources */,
 				3F0846ED13E213210023A855 /* MainWindow.xib in Resources */,
 				3F0846F313E213210023A855 /* TriviaViewController.xib in Resources */,
+				3F71FF7113E70D6200FB933B /* Instructions.xib in Resources */,
+				3F71FF7F13E713A800FB933B /* Question1.xib in Resources */,
+				3F71FF8913E7170300FB933B /* fail.xib in Resources */,
+				3F05A5AF13E77E5000A40038 /* goforit.xib in Resources */,
+				3F05A5B413E7809500A40038 /* win.xib in Resources */,
+				3F159FE313E88FB100C13002 /* takemoney.xib in Resources */,
+				3F01209513EA24EE00FC9CAE /* background.png in Resources */,
+				3F01209913EA4D2800FC9CAE /* winback.png in Resources */,
+				3F01209B13EA4EFB00FC9CAE /* takeback.png in Resources */,
+				3F01209D13EA4FC200FC9CAE /* failback.png in Resources */,
+				3F0120AA13EA613A00FC9CAE /* viewback.png in Resources */,
+				3364DE0813F2189000E1A1FF /* Question15.xib in Resources */,
+				33996D52140D4CD700F638F8 /* appback4.png in Resources */,
+				33996D5C140D577800F638F8 /* Default.png in Resources */,
+				33B295D114186E84008D24CF /* nebula.png in Resources */,
+				33DA7F7D14199ABB00111921 /* aurora.png in Resources */,
+				33DA7F8B1419AFE000111921 /* smallappicon.png in Resources */,
+				B3289DFD165ED59800AE6D37 /* Stats.xib in Resources */,
+				B3289E00165ED5EF00AE6D37 /* metalback2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -234,6 +375,7 @@
 			files = (
 				3F08470413E213210023A855 /* InfoPlist.strings in Resources */,
 				3F08470713E213210023A855 /* TriviaTests.h in Resources */,
+				33996D5D140D577800F638F8 /* Default.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +405,14 @@
 				3F0846E713E213210023A855 /* main.m in Sources */,
 				3F0846EA13E213210023A855 /* TriviaAppDelegate.m in Sources */,
 				3F0846F013E213210023A855 /* TriviaViewController.m in Sources */,
+				3F71FF7013E70D6200FB933B /* Instructions.m in Sources */,
+				3F71FF7E13E713A800FB933B /* Question1.m in Sources */,
+				3F71FF8813E7170300FB933B /* fail.m in Sources */,
+				3F05A5AE13E77E5000A40038 /* goforit.m in Sources */,
+				3F05A5B313E7809500A40038 /* win.m in Sources */,
+				3F159FE213E88FB100C13002 /* takemoney.m in Sources */,
+				3364DE0713F2189000E1A1FF /* Question15.m in Sources */,
+				B3289DFC165ED59800AE6D37 /* Stats.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -320,6 +470,64 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+		33E7F780140DDFE600E1069F /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Deyan Milligan";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Deyan Milligan";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "3255362C-C844-4A0F-ABF8-F1F675CE5A93";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "3255362C-C844-4A0F-ABF8-F1F675CE5A93";
+				SDKROOT = iphoneos;
+			};
+			name = Distribution;
+		};
+		33E7F781140DDFE600E1069F /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Deyan Milligan";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Deyan Milligan";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Trivia/Trivia-Prefix.pch";
+				INFOPLIST_FILE = "Trivia/Trivia-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "3255362C-C844-4A0F-ABF8-F1F675CE5A93";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "3255362C-C844-4A0F-ABF8-F1F675CE5A93";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Distribution;
+		};
+		33E7F782140DDFE600E1069F /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Trivia.app/Trivia";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TriviaTests/TriviaTests-Prefix.pch";
+				INFOPLIST_FILE = "TriviaTests/TriviaTests-Info.plist";
+				OTHER_LDFLAGS = (
+					"-framework",
+					SenTestingKit,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Distribution;
+		};
 		3F08470A13E213210023A855 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -341,13 +549,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_VERSION = com.apple.compilers.llvmgcc42;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos;
 			};
 			name = Release;
@@ -370,11 +581,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Deyan Milligan";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Deyan Milligan";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Trivia/Trivia-Prefix.pch";
 				INFOPLIST_FILE = "Trivia/Trivia-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "D9A527C5-ECAD-4708-BF87-9367818324E7";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D9A527C5-ECAD-4708-BF87-9367818324E7";
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
 			};
@@ -432,6 +647,7 @@
 			buildConfigurations = (
 				3F08470A13E213210023A855 /* Debug */,
 				3F08470B13E213210023A855 /* Release */,
+				33E7F780140DDFE600E1069F /* Distribution */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -441,16 +657,20 @@
 			buildConfigurations = (
 				3F08470D13E213210023A855 /* Debug */,
 				3F08470E13E213210023A855 /* Release */,
+				33E7F781140DDFE600E1069F /* Distribution */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F08470F13E213210023A855 /* Build configuration list for PBXNativeTarget "TriviaTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3F08471013E213210023A855 /* Debug */,
 				3F08471113E213210023A855 /* Release */,
+				33E7F782140DDFE600E1069F /* Distribution */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

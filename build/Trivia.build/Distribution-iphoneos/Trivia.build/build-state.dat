@@ -1,0 +1,1370 @@
+TTrivia
+v7
+r0
+t337228989.512213
+cCheck dependencies
+cCpResource build/Distribution-iphoneos/Trivia.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Info.plist Trivia/Trivia-Info.plist
+cProcessPCH /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fjyqccxkmlcdpqalqypedomuojnb/Trivia-Prefix.pch.gch Trivia/Trivia-Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+cProcessPCH /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fxjuhufzsjmqiffjhuabpgkuxswv/Trivia-Prefix.pch.gch Trivia/Trivia-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/main.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/TriviaAppDelegate.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/TriviaViewController.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Instructions.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question1.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/fail.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/goforit.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/win.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/win.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/takemoney.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question15.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/main.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/main.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/TriviaAppDelegate.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaAppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/TriviaViewController.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Instructions.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question1.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Trivia normal armv6
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/fail.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/goforit.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/win.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/win.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/takemoney.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question15.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Trivia normal armv7
+cCreateUniversalBinary /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Trivia normal "armv6 armv7"
+cGenerateDSYMFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app.dSYM /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Trivia
+cCopyStringsFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/en.lproj/InfoPlist.strings Trivia/en.lproj/InfoPlist.strings
+cCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/en.lproj/MainWindow.xib
+cCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/en.lproj/TriviaViewController.xib
+cCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.xib
+cCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.xib
+cCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.xib
+cCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.xib
+cCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/win.xib
+cCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib
+cCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/background.png Trivia/background.png
+cCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/winback.png Trivia/winback.png
+cCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/takeback.png Trivia/takeback.png
+cCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/failback.png Trivia/failback.png
+cCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/viewback.png Trivia/viewback.png
+cCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.xib
+cCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/appback4.png ../../Desktop/appback4.png
+cCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Default.png Default.png
+cCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/nebula.png ../nebula.png
+cCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/aurora.png ../aurora.png
+cCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/smallappicon.png ../smallappicon.png
+cProcessProductPackaging "/Users/Deyan/Library/MobileDevice/Provisioning Profiles/3255362C-C844-4A0F-ABF8-F1F675CE5A93.mobileprovision" /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/embedded.mobileprovision
+cTouch /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia.xcent
+cCodeSign /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app
+cValidate /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004E41BC880000000000000110
+t1312930952
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D4F6A4700000000000001A7
+t1297050183
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/Availability.h
+c000000004D4F74C20000000000001B19
+t1297052866
+s6937
+
+N/Users/Deyan/Desktop/TriviaFinal1/../../Desktop/appback4.png
+c000000004E5C3152000000000000223A
+t1314664786
+s8762
+
+N/Users/Deyan/Desktop/TriviaFinal1/../aurora.png
+c000000004E69630C0000000000021BED
+t1315529484
+s138221
+
+N/Users/Deyan/Desktop/TriviaFinal1/../nebula.png
+c000000004E6836F2000000000003129F
+t1315452658
+s201375
+
+N/Users/Deyan/Desktop/TriviaFinal1/../smallappicon.png
+c000000004E6978420000000000002292
+t1315534914
+s8850
+
+N/Users/Deyan/Desktop/TriviaFinal1/Default.png
+c000000004E5D1FF800000000000214AB
+t1314725880
+s136363
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.h
+c000000004E36E4D5000000000000010A
+t1312220373
+s266
+i<UIKit/UIKit.h>
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.m
+c000000004E39DD32000000000000063A
+t1312415026
+s1594
+i"Instructions.h"
+i"TriviaViewController.h"
+i"Question1.h"
+i"TriviaAppDelegate.h"
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.xib
+c000000004E41C13C000000000000FE27
+t1312932156
+s65063
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.h
+c000000004E42F3E60000000000000516
+t1313010662
+s1302
+i<UIKit/UIKit.h>
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m
+c000000004E697D27000000000001BB05
+t1315536167
+s113413
+i"Question1.h"
+i"TriviaViewController.h"
+i"fail.h"
+i"TriviaAppDelegate.h"
+i"takemoney.h"
+i"win.h"
+i"goforit.h"
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.xib
+c000000004E68373F000000000000D14E
+t1315452735
+s53582
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.h
+c000000004E42F4EB00000000000004C5
+t1313010923
+s1221
+i<UIKit/UIKit.h>
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m
+c000000004E5D22AA00000000000018F3
+t1314726570
+s6387
+i"Question15.h"
+i"fail.h"
+i"win.h"
+i"TriviaViewController.h"
+i"TriviaAppDelegate.h"
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.xib
+c000000004E683758000000000000AE06
+t1315452760
+s44550
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1A.h
+c000000004E3A26B20000000000000197
+t1312433842
+s407
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1A.m
+c000000004E3A26B200000000000029CD
+t1312433842
+s10701
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1A.xib
+c000000004E3A253E0000000000009B3A
+t1312433470
+s39738
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question2A.m
+c000000004E3A26B200000000000004F7
+t1312433842
+s1271
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question2A.xib
+c000000004E3A22530000000000001859
+t1312432723
+s6233
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/Trivia-Prefix.pch
+c000000004E31DBA1000000000000013E
+t1311890337
+s318
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaAppDelegate.h
+c000000004E3A26B20000000000000210
+t1312433842
+s528
+i<UIKit/UIKit.h>
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaAppDelegate.m
+c000000004E3A26B200000000000009B3
+t1312433842
+s2483
+i"TriviaAppDelegate.h"
+i"TriviaViewController.h"
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaViewController.h
+c000000004E3895D80000000000000120
+t1312331224
+s288
+i<UIKit/UIKit.h>
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaViewController.m
+c000000004E3A2C310000000000000689
+t1312435249
+s1673
+i"TriviaViewController.h"
+i"Instructions.h"
+i"TriviaAppDelegate.h"
+i"Question1.h"
+i"Question1A.h"
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/background.png
+c000000004E39EC6600000000000158F1
+t1312418918
+s88305
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/en.lproj/InfoPlist.strings
+c000000004E31DBA1000000000000002D
+t1311890337
+s45
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/en.lproj/MainWindow.xib
+c000000004E31DBA10000000000004E0D
+t1311890337
+s19981
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/en.lproj/TriviaViewController.xib
+c000000004E598F4800000000000065B9
+t1314492232
+s26041
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.h
+c000000004E38929F000000000000013C
+t1312330399
+s316
+i<UIKit/UIKit.h>
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.m
+c000000004E39C48700000000000006E1
+t1312408711
+s1761
+i"fail.h"
+i"TriviaViewController.h"
+i"Question1.h"
+i"TriviaAppDelegate.h"
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.xib
+c000000004E598FA40000000000007CE3
+t1314492324
+s31971
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/failback.png
+c000000004E3A18330000000000037F13
+t1312430131
+s229139
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.h
+c000000004E374A9600000000000000FF
+t1312246422
+s255
+i<UIKit/UIKit.h>
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.m
+c000000004E41E13100000000000005FA
+t1312940337
+s1530
+i"goforit.h"
+i"Question15.h"
+i"fail.h"
+i"TriviaAppDelegate.h"
+i"takemoney.h"
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.xib
+c000000004E6979CC0000000000008390
+t1315535308
+s33680
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/main.m
+c000000004E31DBA10000000000000168
+t1311890337
+s360
+i<UIKit/UIKit.h>
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/mainback.png
+c000000004E3A0F0B0000000000021AE2
+t1312427787
+s137954
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/takeback.png
+c000000004E3A175A0000000000045472
+t1312429914
+s283762
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.h
+c000000004E5D4A4E0000000000000146
+t1314736718
+s326
+i<UIKit/UIKit.h>
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.m
+c000000004E39C48700000000000006F4
+t1312408711
+s1780
+i"takemoney.h"
+i"TriviaAppDelegate.h"
+i"Question1.h"
+i"TriviaViewController.h"
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib
+c000000004E3A18A5000000000000467A
+t1312430245
+s18042
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/viewback.png
+c000000004E3A293D000000000000A1A0
+t1312434493
+s41376
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/win.h
+c000000004E374B8B00000000000000F9
+t1312246667
+s249
+i<UIKit/UIKit.h>
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/win.m
+c000000004E433FCE0000000000000655
+t1313030094
+s1621
+i"win.h"
+i"Question1.h"
+i"TriviaViewController.h"
+i"TriviaAppDelegate.h"
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/win.xib
+c000000004E433EEB0000000000007572
+t1313029867
+s30066
+
+N/Users/Deyan/Desktop/TriviaFinal1/Trivia/winback.png
+c000000004E3A158E0000000000018F31
+t1312429454
+s102193
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app
+t1315536188
+s1020
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app.dSYM
+t1315536173
+s102
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Default.png
+t1314762398
+s121955
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Info.plist
+t1315536168
+s992
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Instructions.nib
+t1314762392
+s11453
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/PkgInfo
+t1315536168
+s8
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Question1.nib
+t1315536178
+s8190
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Question15.nib
+t1315536178
+s6610
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Question1A.nib
+t1314762396
+s9052
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Question2A.nib
+t1314762396
+s1231
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/ResourceRules.plist
+t1314762386
+s485
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Trivia
+t1315536173
+s248340
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/appback4.png
+t1314762397
+s10066
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/aurora.png
+t1315536180
+s167575
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/background.png
+t1314762395
+s116038
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/embedded.mobileprovision
+t1314764508
+s7115
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/en.lproj/InfoPlist.strings
+t1314762391
+s42
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/en.lproj/MainWindow.nib
+t1314762391
+s1679
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/en.lproj/TriviaViewController.nib
+t1314762392
+s4471
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/fail.nib
+t1314762393
+s5066
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/failback.png
+t1314762396
+s277200
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/goforit.nib
+t1315536178
+s5524
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/mainback.png
+t1314762395
+s173055
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/nebula.png
+t1315536178
+s243997
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/smallappicon.png
+t1315536178
+s9979
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/takeback.png
+t1314762396
+s348944
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/takemoney.nib
+t1314762394
+s5034
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/viewback.png
+t1314762397
+s45952
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/win.nib
+t1314762394
+s4843
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/winback.png
+t1314762396
+s120542
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Instructions.o
+t1314762387
+s37828
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question1.o
+t1315536173
+s240832
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question15.o
+t1314762388
+s65444
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question1A.o
+t1314762388
+s500
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question2A.o
+t1314762388
+s500
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Trivia
+t1315536173
+s121108
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Trivia.LinkFileList
+c000000004E697D2800000000000004BF
+t1315536168
+s1215
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/TriviaAppDelegate.o
+t1314762387
+s48084
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/TriviaViewController.o
+t1314762387
+s37416
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/fail.o
+t1314762388
+s39828
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/goforit.o
+t1314762388
+s37616
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/main.o
+t1314762387
+s3216
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/takemoney.o
+t1314762388
+s40048
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/win.o
+t1314762388
+s37772
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Instructions.o
+t1314762389
+s38180
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question1.o
+t1315536173
+s252664
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question15.o
+t1314762390
+s66280
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question1A.o
+t1314762389
+s500
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question2A.o
+t1314762390
+s500
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Trivia
+t1315536173
+s121364
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Trivia.LinkFileList
+c000000004E697D2800000000000004BF
+t1315536168
+s1215
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/TriviaAppDelegate.o
+t1314762388
+s48212
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/TriviaViewController.o
+t1314762389
+s37756
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/fail.o
+t1314762389
+s40496
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/goforit.o
+t1314762389
+s37972
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/main.o
+t1314762388
+s3360
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/takemoney.o
+t1314762389
+s40716
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/win.o
+t1314762389
+s38404
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia.xcent
+t1315536180
+s449
+
+N/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/Deyan/Library/MobileDevice/Provisioning Profiles/3255362C-C844-4A0F-ABF8-F1F675CE5A93.mobileprovision
+c000000004E5DB2930000000000001BCB
+t1314763411
+s7115
+
+N/Users/Deyan/Library/MobileDevice/Provisioning Profiles/B47E8D35-08A1-4527-9362-0F7DFA4231F1.mobileprovision
+c000000004E5D1AD70000000000001DD8
+t1314724567
+s7640
+
+N/Users/Deyan/Library/MobileDevice/Provisioning Profiles/D9A527C5-ECAD-4708-BF87-9367818324E7.mobileprovision
+c000000004E5D434B0000000000001BCD
+t1314734923
+s7117
+
+N/var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fjyqccxkmlcdpqalqypedomuojnb/Trivia-Prefix.pch.gch
+t1314762387
+s7739292
+
+N/var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fxjuhufzsjmqiffjhuabpgkuxswv/Trivia-Prefix.pch.gch
+t1314762387
+s8234908
+
+NTrivia/Trivia-Info.plist
+c000000004E6978880000000000000400
+t1315534984
+s1024
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies337228967#337228968#0(0"0(0#1#0"8610384032#0"0#
+
+CCodeSign /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app
+s337228980.157338
+e337228988.616465
+r1
+xCodeSign
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app
+lSLF07#2@47"CodeSign build/Distribution-iphoneos/Trivia.app337228980#337228988#0(0"0(0#0#72"/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app8613463680#636"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Distribution: Deyan Milligan" --resource-rules=/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/ResourceRules.plist --entitlements /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia.xcent /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Instructions.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s336455187.768984
+e336455187.888381
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Instructions.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@63"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.m336455187#336455187#0(0"0(0#0#55"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.m8633065216#1766"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv6 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fjyqccxkmlcdpqalqypedomuojnb/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Instructions.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question1.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s337228968.130748
+e337228973.344107
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question1.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 quit]':
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:25: warning: class 'Question1' does not implement the 'UIActionSheetDelegate' protocol
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 actionSheet:didDismissWithButtonIndex:]':
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:38: warning: unused variable 'msg'
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 fifty]':
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: 'Question1' may not respond to '-hintAlert::::'
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: (Messages without a matching method signature
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: will be assumed to return 'id' and accept
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: '...' as arguments.)
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:81: warning: 'Question1' may not respond to '-hintAlert::::'
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:84: warning: 'Question1' may not respond to '-hintAlert::::'
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:87: warning: 'Question1' may not respond to '-hintAlert::::'
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 phone]':
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:116: warning: 'Question1' may not respond to '-phoneAlert::::'
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:119: warning: 'Question1' may not respond to '-phoneAlert::::'
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:122: warning: 'Question1' may not respond to '-phoneAlert::::'
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:125: warning: 'Question1' may not respond to '-phoneAlert::::'
+lSLF07#2@60"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228968#337228973#0(1839"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 quit]':/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:25: warning: class 'Question1' does not implement the 'UIActionSheetDelegate' protocol/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 actionSheet:didDismissWithButtonIndex:]':/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:38: warning: unused variable 'msg'/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 fifty]':/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: 'Question1' may not respond to '-hintAlert::::'/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: (Messages without a matching method signature/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: will be assumed to return 'id' and accept/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: '...' as arguments.)/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:81: warning: 'Question1' may not respond to '-hintAlert::::'/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:84: warning: 'Question1' may not respond to '-hintAlert::::'/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:87: warning: 'Question1' may not respond to '-hintAlert::::'/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 phone]':/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:116: warning: 'Question1' may not respond to '-phoneAlert::::'/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:119: warning: 'Question1' may not respond to '-phoneAlert::::'/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:122: warning: 'Question1' may not respond to '-phoneAlert::::'/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:125: warning: 'Question1' may not respond to '-phoneAlert::::'11(22@73"Class 'Question1' does not implement the 'UIActionSheetDelegate' protocol337228969#87#140#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#25#0#25#0#45"class '*' does not implement the '*' protocol0(22@21"Unused variable 'msg'337228969#348#88#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#38#0#38#0#19"unused variable '*'0(22@47"'Question1' may not respond to '-hintAlert::::'337228969#524#114#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#78#0#78#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)337228969#638#112#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#78#0#78#0#0"0(22@47"'Question1' may not respond to '-hintAlert::::'337228969#945#114#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#81#0#81#0#26"'*' may not respond to '*'0(22@47"'Question1' may not respond to '-hintAlert::::'337228969#1059#114#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#84#0#84#0#26"'*' may not respond to '*'0(22@47"'Question1' may not respond to '-hintAlert::::'337228969#1173#114#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#87#0#87#0#26"'*' may not respond to '*'0(22@48"'Question1' may not respond to '-phoneAlert::::'337228969#1375#116#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#116#0#116#0#26"'*' may not respond to '*'0(22@48"'Question1' may not respond to '-phoneAlert::::'337228969#1491#116#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#119#0#119#0#26"'*' may not respond to '*'0(22@48"'Question1' may not respond to '-phoneAlert::::'337228969#1607#116#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#122#0#122#0#26"'*' may not respond to '*'0(22@48"'Question1' may not respond to '-phoneAlert::::'337228969#1723#116#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#125#0#125#0#26"'*' may not respond to '*'0(0#0#52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m8615962560#1760"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv6 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fjyqccxkmlcdpqalqypedomuojnb/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question1.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question15.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s336455188.491530
+e336455188.705155
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question15.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m: In function '-[Question15 quit]':
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m:24: warning: class 'Question15' does not implement the 'UIActionSheetDelegate' protocol
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m: In function '-[Question15 actionSheet:didDismissWithButtonIndex:]':
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m:37: warning: unused variable 'msg'
+lSLF07#2@61"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m336455188#336455188#0(443"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m: In function '-[Question15 quit]':/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m:24: warning: class 'Question15' does not implement the 'UIActionSheetDelegate' protocol/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m: In function '-[Question15 actionSheet:didDismissWithButtonIndex:]':/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m:37: warning: unused variable 'msg'2(22@74"Class 'Question15' does not implement the 'UIActionSheetDelegate' protocol336455188#89#142#0(6@53"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m336419370#24#0#24#0#45"class '*' does not implement the '*' protocol0(22@21"Unused variable 'msg'336455188#354#89#0(6@53"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m336419370#37#0#37#0#19"unused variable '*'0(0#0#53"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m8630355808#1762"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv6 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fjyqccxkmlcdpqalqypedomuojnb/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question15.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question1A.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1A.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s336455188.386086
+e336455188.441662
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question1A.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1A.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@61"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1A.m336455188#336455188#0(0"0(0#0#53"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1A.m8635390624#1762"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv6 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fjyqccxkmlcdpqalqypedomuojnb/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1A.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question1A.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question2A.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question2A.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s336455188.441776
+e336455188.491415
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question2A.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question2A.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@61"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question2A.m336455188#336455188#0(0"0(0#0#53"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question2A.m8632284864#1762"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv6 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fjyqccxkmlcdpqalqypedomuojnb/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question2A.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Question2A.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/TriviaAppDelegate.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s336455187.604071
+e336455187.768866
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/TriviaAppDelegate.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@68"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaAppDelegate.m336455187#336455187#0(0"0(0#0#60"/Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaAppDelegate.m8641076608#1776"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv6 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fjyqccxkmlcdpqalqypedomuojnb/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaAppDelegate.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/TriviaAppDelegate.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/TriviaViewController.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s336455187.685585
+e336455187.803113
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/TriviaViewController.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@71"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaViewController.m336455187#336455187#0(0"0(0#0#63"/Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaViewController.m8640428576#1782"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv6 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fjyqccxkmlcdpqalqypedomuojnb/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaViewController.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/TriviaViewController.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/fail.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s336455187.888494
+e336455188.033963
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/fail.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@55"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.m336455187#336455188#0(0"0(0#0#47"/Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.m8610190848#1750"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv6 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fjyqccxkmlcdpqalqypedomuojnb/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/fail.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/goforit.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s336455188.034089
+e336455188.152014
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/goforit.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@58"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.m336455188#336455188#0(0"0(0#0#50"/Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.m8623948224#1756"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv6 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fjyqccxkmlcdpqalqypedomuojnb/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/goforit.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/main.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s336455187.602695
+e336455187.685467
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/main.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@55"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/main.m336455187#336455187#0(0"0(0#0#47"/Users/Deyan/Desktop/TriviaFinal1/Trivia/main.m8641292416#1750"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv6 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fjyqccxkmlcdpqalqypedomuojnb/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/main.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/takemoney.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s336455188.272783
+e336455188.385967
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/takemoney.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@60"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.m336455188#336455188#0(0"0(0#0#52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.m8640450016#1760"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv6 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fjyqccxkmlcdpqalqypedomuojnb/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/takemoney.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/win.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/win.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s336455188.152130
+e336455188.272581
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/win.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/win.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/win.m336455188#336455188#0(0"0(0#0#46"/Users/Deyan/Desktop/TriviaFinal1/Trivia/win.m8609899648#1748"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv6 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fjyqccxkmlcdpqalqypedomuojnb/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/win.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/win.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Instructions.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s336455189.024315
+e336455189.185895
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Instructions.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@63"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.m336455189#336455189#0(0"0(0#0#55"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.m8621989248#1766"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv7 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fxjuhufzsjmqiffjhuabpgkuxswv/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Instructions.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question1.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s337228968.136506
+e337228973.535854
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question1.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 quit]':
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:25: warning: class 'Question1' does not implement the 'UIActionSheetDelegate' protocol
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 actionSheet:didDismissWithButtonIndex:]':
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:38: warning: unused variable 'msg'
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 fifty]':
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: 'Question1' may not respond to '-hintAlert::::'
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: (Messages without a matching method signature
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: will be assumed to return 'id' and accept
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: '...' as arguments.)
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:81: warning: 'Question1' may not respond to '-hintAlert::::'
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:84: warning: 'Question1' may not respond to '-hintAlert::::'
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:87: warning: 'Question1' may not respond to '-hintAlert::::'
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 phone]':
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:116: warning: 'Question1' may not respond to '-phoneAlert::::'
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:119: warning: 'Question1' may not respond to '-phoneAlert::::'
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:122: warning: 'Question1' may not respond to '-phoneAlert::::'
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:125: warning: 'Question1' may not respond to '-phoneAlert::::'
+lSLF07#2@60"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228968#337228973#0(1839"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 quit]':/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:25: warning: class 'Question1' does not implement the 'UIActionSheetDelegate' protocol/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 actionSheet:didDismissWithButtonIndex:]':/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:38: warning: unused variable 'msg'/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 fifty]':/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: 'Question1' may not respond to '-hintAlert::::'/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: (Messages without a matching method signature/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: will be assumed to return 'id' and accept/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: '...' as arguments.)/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:81: warning: 'Question1' may not respond to '-hintAlert::::'/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:84: warning: 'Question1' may not respond to '-hintAlert::::'/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:87: warning: 'Question1' may not respond to '-hintAlert::::'/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 phone]':/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:116: warning: 'Question1' may not respond to '-phoneAlert::::'/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:119: warning: 'Question1' may not respond to '-phoneAlert::::'/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:122: warning: 'Question1' may not respond to '-phoneAlert::::'/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:125: warning: 'Question1' may not respond to '-phoneAlert::::'11(22@73"Class 'Question1' does not implement the 'UIActionSheetDelegate' protocol337228969#87#140#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#25#0#25#0#45"class '*' does not implement the '*' protocol0(22@21"Unused variable 'msg'337228969#348#88#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#38#0#38#0#19"unused variable '*'0(22@47"'Question1' may not respond to '-hintAlert::::'337228969#524#114#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#78#0#78#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)337228969#638#112#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#78#0#78#0#0"0(22@47"'Question1' may not respond to '-hintAlert::::'337228969#945#114#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#81#0#81#0#26"'*' may not respond to '*'0(22@47"'Question1' may not respond to '-hintAlert::::'337228969#1059#114#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#84#0#84#0#26"'*' may not respond to '*'0(22@47"'Question1' may not respond to '-hintAlert::::'337228969#1173#114#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#87#0#87#0#26"'*' may not respond to '*'0(22@48"'Question1' may not respond to '-phoneAlert::::'337228969#1375#116#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#116#0#116#0#26"'*' may not respond to '*'0(22@48"'Question1' may not respond to '-phoneAlert::::'337228969#1491#116#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#119#0#119#0#26"'*' may not respond to '*'0(22@48"'Question1' may not respond to '-phoneAlert::::'337228969#1607#116#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#122#0#122#0#26"'*' may not respond to '*'0(22@48"'Question1' may not respond to '-phoneAlert::::'337228969#1723#116#0(6@52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m337228967#125#0#125#0#26"'*' may not respond to '*'0(0#0#52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m8613439104#1760"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv7 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fxjuhufzsjmqiffjhuabpgkuxswv/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question1.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question15.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s336455190.057573
+e336455190.279350
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question15.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m: In function '-[Question15 quit]':
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m:24: warning: class 'Question15' does not implement the 'UIActionSheetDelegate' protocol
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m: In function '-[Question15 actionSheet:didDismissWithButtonIndex:]':
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m:37: warning: unused variable 'msg'
+lSLF07#2@61"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m336455190#336455190#0(443"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m: In function '-[Question15 quit]':/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m:24: warning: class 'Question15' does not implement the 'UIActionSheetDelegate' protocol/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m: In function '-[Question15 actionSheet:didDismissWithButtonIndex:]':/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m:37: warning: unused variable 'msg'2(22@74"Class 'Question15' does not implement the 'UIActionSheetDelegate' protocol336455190#89#142#0(6@53"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m336419370#24#0#24#0#45"class '*' does not implement the '*' protocol0(22@21"Unused variable 'msg'336455190#354#89#0(6@53"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m336419370#37#0#37#0#19"unused variable '*'0(0#0#53"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m8605221504#1762"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv7 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fxjuhufzsjmqiffjhuabpgkuxswv/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question15.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question1A.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1A.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s336455189.943417
+e336455189.999293
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question1A.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1A.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@61"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1A.m336455189#336455190#0(0"0(0#0#53"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1A.m8627164096#1762"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv7 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fxjuhufzsjmqiffjhuabpgkuxswv/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1A.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question1A.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question2A.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question2A.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s336455189.999406
+e336455190.057456
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question2A.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question2A.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@61"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question2A.m336455189#336455190#0(0"0(0#0#53"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question2A.m8624978400#1762"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv7 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fxjuhufzsjmqiffjhuabpgkuxswv/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question2A.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Question2A.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/TriviaAppDelegate.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaAppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s336455188.772411
+e336455188.911185
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/TriviaAppDelegate.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@68"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaAppDelegate.m336455188#336455188#0(0"0(0#0#60"/Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaAppDelegate.m8638392064#1776"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv7 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fxjuhufzsjmqiffjhuabpgkuxswv/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaAppDelegate.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/TriviaAppDelegate.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/TriviaViewController.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s336455188.911305
+e336455189.024195
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/TriviaViewController.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@71"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaViewController.m336455188#336455189#0(0"0(0#0#63"/Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaViewController.m8630740672#1782"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv7 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fxjuhufzsjmqiffjhuabpgkuxswv/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/TriviaViewController.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/TriviaViewController.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/fail.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s336455189.373719
+e336455189.517809
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/fail.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@55"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.m336455189#336455189#0(0"0(0#0#47"/Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.m8632309024#1750"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv7 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fxjuhufzsjmqiffjhuabpgkuxswv/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/fail.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/goforit.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s336455189.518007
+e336455189.683200
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/goforit.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@58"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.m336455189#336455189#0(0"0(0#0#50"/Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.m8596470400#1756"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv7 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fxjuhufzsjmqiffjhuabpgkuxswv/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/goforit.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/main.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/main.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s336455188.705267
+e336455188.772296
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/main.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@55"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/main.m336455188#336455188#0(0"0(0#0#47"/Users/Deyan/Desktop/TriviaFinal1/Trivia/main.m8640951040#1750"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv7 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fxjuhufzsjmqiffjhuabpgkuxswv/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/main.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/takemoney.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s336455189.801541
+e336455189.943310
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/takemoney.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@60"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.m336455189#336455189#0(0"0(0#0#52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.m8635145088#1760"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv7 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fxjuhufzsjmqiffjhuabpgkuxswv/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/takemoney.o0#
+
+CCompileC build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/win.o /Users/Deyan/Desktop/TriviaFinal1/Trivia/win.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s336455189.683331
+e336455189.801347
+r1
+xCompileC
+xbuild/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/win.o
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/win.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/Deyan/Desktop/TriviaFinal1/Trivia/win.m336455189#336455189#0(0"0(0#0#46"/Users/Deyan/Desktop/TriviaFinal1/Trivia/win.m8640512736#1748"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv7 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fxjuhufzsjmqiffjhuabpgkuxswv/Trivia-Prefix.pch -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/win.m -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/win.o0#
+
+CCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.xib
+s336455191.905926
+e336455192.845857
+r1
+xCompileXIB
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@34"CompileXIB Trivia/Instructions.xib336455191#336455192#0(252"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#57"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.xib8641260672#544"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Instructions.nib /Users/Deyan/Desktop/TriviaFinal1/Trivia/Instructions.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.xib
+s337228974.082413
+e337228978.230365
+r1
+xCompileXIB
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.xib
+lSLF07#2@31"CompileXIB Trivia/Question1.xib337228974#337228978#0(0"0(0#0#54"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.xib8616368064#538"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Question1.nib /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.xib
+s337228978.171987
+e337228978.885203
+r1
+xCompileXIB
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.xib
+lSLF07#2@32"CompileXIB Trivia/Question15.xib337228978#337228978#0(0"0(0#0#55"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.xib8613281312#540"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Question15.nib /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question15.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1A.xib
+s336455196.034235
+e336455197.006629
+r1
+xCompileXIB
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1A.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@32"CompileXIB Trivia/Question1A.xib336455196#336455197#0(252"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#55"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1A.xib8632550112#540"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Question1A.nib /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1A.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question2A.xib
+s336455196.417676
+e336455196.989908
+r1
+xCompileXIB
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question2A.xib
+lSLF07#2@32"CompileXIB Trivia/Question2A.xib336455196#336455196#0(0"0(0#0#55"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question2A.xib8626698720#540"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Question2A.nib /Users/Deyan/Desktop/TriviaFinal1/Trivia/Question2A.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/en.lproj/MainWindow.xib
+s336455190.888715
+e336455191.905824
+r1
+xCompileXIB
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/en.lproj/MainWindow.xib
+lSLF07#2@41"CompileXIB Trivia/en.lproj/MainWindow.xib336455190#336455191#0(0"0(0#0#64"/Users/Deyan/Desktop/TriviaFinal1/Trivia/en.lproj/MainWindow.xib8624049984#558"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/en.lproj/MainWindow.nib /Users/Deyan/Desktop/TriviaFinal1/Trivia/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/en.lproj/TriviaViewController.xib
+s336455191.457193
+e336455192.401712
+r1
+xCompileXIB
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/en.lproj/TriviaViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@51"CompileXIB Trivia/en.lproj/TriviaViewController.xib336455191#336455192#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#74"/Users/Deyan/Desktop/TriviaFinal1/Trivia/en.lproj/TriviaViewController.xib8640392736#578"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/en.lproj/TriviaViewController.nib /Users/Deyan/Desktop/TriviaFinal1/Trivia/en.lproj/TriviaViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.xib
+s336455192.845955
+e336455193.515917
+r1
+xCompileXIB
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@26"CompileXIB Trivia/fail.xib336455192#336455193#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#49"/Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.xib8590099488#528"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/fail.nib /Users/Deyan/Desktop/TriviaFinal1/Trivia/fail.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.xib
+s337228974.083433
+e337228978.168509
+r1
+xCompileXIB
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.xib
+lSLF07#2@29"CompileXIB Trivia/goforit.xib337228974#337228978#0(0"0(0#0#52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.xib8615781120#534"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/goforit.nib /Users/Deyan/Desktop/TriviaFinal1/Trivia/goforit.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib
+s336455193.881245
+e336455194.563044
+r1
+xCompileXIB
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+o/* com.apple.ibtool.document.warnings */
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on takemoney.
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib:-1: warning: The 'statusText' outlet of 'File's Owner' is connected to 'Label (.)' but 'statusText' is no longer defined on takemoney.
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib:12: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (Main Menu)' is connected to the 'mainmenu' selector of 'File's Owner', but 'mainmenu' is no longer defined on 'takemoney'.
+o/Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib:11: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (Play Again)' is connected to the 'startover' selector of 'File's Owner', but 'startover' is no longer defined on 'takemoney'.
+lSLF07#2@31"CompileXIB Trivia/takemoney.xib336455193#336455194#0(979"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)/* com.apple.ibtool.document.warnings *//Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on takemoney./Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib:-1: warning: The 'statusText' outlet of 'File's Owner' is connected to 'Label (.)' but 'statusText' is no longer defined on takemoney./Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib:12: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (Main Menu)' is connected to the 'mainmenu' selector of 'File's Owner', but 'mainmenu' is no longer defined on 'takemoney'./Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib:11: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (Play Again)' is connected to the 'startover' selector of 'File's Owner', but 'startover' is no longer defined on 'takemoney'.4(22@104"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on takemoney.336455194#18446744073709551615#0#0(6@54"/Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib334123045#18446744073709551615#0#18446744073709551615#0#0"0(22@121"The 'statusText' outlet of 'File's Owner' is connected to 'Label (.)' but 'statusText' is no longer defined on takemoney.336455194#18446744073709551615#0#0(6@54"/Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib334123045#18446744073709551615#0#18446744073709551615#0#0"0(22@175"The 'Touch Up Inside' event of 'Rounded Rect Button (Main Menu)' is connected to the 'mainmenu' selector of 'File's Owner', but 'mainmenu' is no longer defined on 'takemoney'.336455194#18446744073709551615#0#0(6@54"/Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib334123045#12#0#12#0#0"0(22@178"The 'Touch Up Inside' event of 'Rounded Rect Button (Play Again)' is connected to the 'startover' selector of 'File's Owner', but 'startover' is no longer defined on 'takemoney'.336455194#18446744073709551615#0#0(6@54"/Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib334123045#11#0#11#0#0"0(0#0#54"/Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib8595108384#538"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/takemoney.nib /Users/Deyan/Desktop/TriviaFinal1/Trivia/takemoney.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/Deyan/Desktop/TriviaFinal1/Trivia/win.xib
+s336455193.516033
+e336455194.199082
+r1
+xCompileXIB
+x/Users/Deyan/Desktop/TriviaFinal1/Trivia/win.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB Trivia/win.xib336455193#336455194#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#48"/Users/Deyan/Desktop/TriviaFinal1/Trivia/win.xib8641151872#526"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/win.nib /Users/Deyan/Desktop/TriviaFinal1/Trivia/win.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Default.png Default.png
+s336455197.455442
+e336455198.035589
+r1
+xCopyPNGFile
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Default.png
+xDefault.png
+lSLF07#2@74"CopyPNGFile build/Distribution-iphoneos/Trivia.app/Default.png Default.png336455197#336455198#0(0"0(0#0#45"/Users/Deyan/Desktop/TriviaFinal1/Default.png8638569376#453"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Deyan/Desktop/TriviaFinal1/Default.png /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Default.png0#
+
+CCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/appback4.png ../../Desktop/appback4.png
+s336455197.420622
+e336455197.455331
+r1
+xCopyPNGFile
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/appback4.png
+x../../Desktop/appback4.png
+lSLF07#2@90"CopyPNGFile build/Distribution-iphoneos/Trivia.app/appback4.png ../../Desktop/appback4.png336455197#336455197#0(0"0(0#0#60"/Users/Deyan/Desktop/TriviaFinal1/../../Desktop/appback4.png8639011904#469"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Deyan/Desktop/TriviaFinal1/../../Desktop/appback4.png /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/appback4.png0#
+
+CCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/aurora.png ../aurora.png
+s337228978.885311
+e337228980.137148
+r1
+xCopyPNGFile
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/aurora.png
+x../aurora.png
+lSLF07#2@75"CopyPNGFile build/Distribution-iphoneos/Trivia.app/aurora.png ../aurora.png337228978#337228980#0(0"0(0#0#47"/Users/Deyan/Desktop/TriviaFinal1/../aurora.png8613646368#454"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Deyan/Desktop/TriviaFinal1/../aurora.png /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/aurora.png0#
+
+CCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/background.png Trivia/background.png
+s336455194.199191
+e336455195.192077
+r1
+xCopyPNGFile
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/background.png
+xTrivia/background.png
+lSLF07#2@87"CopyPNGFile build/Distribution-iphoneos/Trivia.app/background.png Trivia/background.png336455194#336455195#0(0"0(0#0#55"/Users/Deyan/Desktop/TriviaFinal1/Trivia/background.png8635562336#466"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Deyan/Desktop/TriviaFinal1/Trivia/background.png /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/background.png0#
+
+CCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/failback.png Trivia/failback.png
+s336455196.018070
+e336455196.417578
+r1
+xCopyPNGFile
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/failback.png
+xTrivia/failback.png
+lSLF07#2@83"CopyPNGFile build/Distribution-iphoneos/Trivia.app/failback.png Trivia/failback.png336455196#336455196#0(0"0(0#0#53"/Users/Deyan/Desktop/TriviaFinal1/Trivia/failback.png8635339680#462"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Deyan/Desktop/TriviaFinal1/Trivia/failback.png /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/failback.png0#
+
+CCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/mainback.png Trivia/mainback.png
+s336455194.563153
+e336455195.828822
+r1
+xCopyPNGFile
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/mainback.png
+xTrivia/mainback.png
+lSLF07#2@83"CopyPNGFile build/Distribution-iphoneos/Trivia.app/mainback.png Trivia/mainback.png336455194#336455195#0(0"0(0#0#53"/Users/Deyan/Desktop/TriviaFinal1/Trivia/mainback.png8599899264#462"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Deyan/Desktop/TriviaFinal1/Trivia/mainback.png /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/mainback.png0#
+
+CCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/nebula.png ../nebula.png
+s337228978.230614
+e337228978.892938
+r1
+xCopyPNGFile
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/nebula.png
+x../nebula.png
+lSLF07#2@75"CopyPNGFile build/Distribution-iphoneos/Trivia.app/nebula.png ../nebula.png337228978#337228978#0(0"0(0#0#47"/Users/Deyan/Desktop/TriviaFinal1/../nebula.png8600377024#454"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Deyan/Desktop/TriviaFinal1/../nebula.png /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/nebula.png0#
+
+CCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/smallappicon.png ../smallappicon.png
+s337228978.893043
+e337228978.925870
+r1
+xCopyPNGFile
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/smallappicon.png
+x../smallappicon.png
+lSLF07#2@87"CopyPNGFile build/Distribution-iphoneos/Trivia.app/smallappicon.png ../smallappicon.png337228978#337228978#0(0"0(0#0#53"/Users/Deyan/Desktop/TriviaFinal1/../smallappicon.png8613538368#466"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Deyan/Desktop/TriviaFinal1/../smallappicon.png /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/smallappicon.png0#
+
+CCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/takeback.png Trivia/takeback.png
+s336455195.828954
+e336455196.034119
+r1
+xCopyPNGFile
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/takeback.png
+xTrivia/takeback.png
+lSLF07#2@83"CopyPNGFile build/Distribution-iphoneos/Trivia.app/takeback.png Trivia/takeback.png336455195#336455196#0(0"0(0#0#53"/Users/Deyan/Desktop/TriviaFinal1/Trivia/takeback.png8635867392#462"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Deyan/Desktop/TriviaFinal1/Trivia/takeback.png /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/takeback.png0#
+
+CCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/viewback.png Trivia/viewback.png
+s336455196.990131
+e336455197.420513
+r1
+xCopyPNGFile
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/viewback.png
+xTrivia/viewback.png
+lSLF07#2@83"CopyPNGFile build/Distribution-iphoneos/Trivia.app/viewback.png Trivia/viewback.png336455196#336455197#0(0"0(0#0#53"/Users/Deyan/Desktop/TriviaFinal1/Trivia/viewback.png8641476736#462"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Deyan/Desktop/TriviaFinal1/Trivia/viewback.png /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/viewback.png0#
+
+CCopyPNGFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/winback.png Trivia/winback.png
+s336455195.192291
+e336455196.017965
+r1
+xCopyPNGFile
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/winback.png
+xTrivia/winback.png
+lSLF07#2@81"CopyPNGFile build/Distribution-iphoneos/Trivia.app/winback.png Trivia/winback.png336455195#336455196#0(0"0(0#0#52"/Users/Deyan/Desktop/TriviaFinal1/Trivia/winback.png8639205568#460"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Deyan/Desktop/TriviaFinal1/Trivia/winback.png /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/winback.png0#
+
+CCopyStringsFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/en.lproj/InfoPlist.strings Trivia/en.lproj/InfoPlist.strings
+s336455190.887714
+e336455191.457005
+r1
+xCopyStringsFile
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/en.lproj/InfoPlist.strings
+xTrivia/en.lproj/InfoPlist.strings
+lSLF07#2@38"Copy Trivia/en.lproj/InfoPlist.strings336455190#336455191#0(0"0(0#0#67"/Users/Deyan/Desktop/TriviaFinal1/Trivia/en.lproj/InfoPlist.strings8598704864#472"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Trivia/en.lproj/InfoPlist.strings --outdir /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/en.lproj0#
+
+CCpResource build/Distribution-iphoneos/Trivia.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+s336455186.741841
+e336455186.777971
+r1
+xCpResource
+xbuild/Distribution-iphoneos/Trivia.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist336455186#336455186#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist8610148672#511"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app0#
+
+CCreateUniversalBinary /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Trivia normal "armv6 armv7"
+s337228973.796460
+e337228973.826597
+r1
+xCreateUniversalBinary
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Trivia
+xnormal
+xarmv6 armv7
+lSLF07#2@88"CreateUniversalBinary build/Distribution-iphoneos/Trivia.app/Trivia normal "armv6 armv7"337228973#337228973#0(0"0(0#0#45"/Users/Deyan/Desktop/TriviaFinal1/armv6 armv78614271648#511"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Trivia /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Trivia -output /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Trivia0#
+
+CGenerateDSYMFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app.dSYM /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Trivia
+s337228973.826734
+e337228974.081930
+r1
+xGenerateDSYMFile
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app.dSYM
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Trivia
+lSLF07#2@106"GenerateDSYMFile build/Distribution-iphoneos/Trivia.app.dSYM build/Distribution-iphoneos/Trivia.app/Trivia337228973#337228974#0(0"0(0#0#79"/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Trivia8609590656#358"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Trivia -o /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app.dSYM0#
+
+CLd /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Trivia normal armv6
+s337228973.344251
+e337228973.705627
+r1
+xLd
+x/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Trivia
+xnormal
+xarmv6
+lSLF07#2@120"Link /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Trivia337228973#337228973#0(0"0(0#0#0"8614736032#870"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -filelist /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Trivia.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework UIKit -framework Foundation -framework CoreGraphics -prebind -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv6/Trivia0#
+
+CLd /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Trivia normal armv7
+s337228973.536595
+e337228973.796324
+r1
+xLd
+x/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Trivia
+xnormal
+xarmv7
+lSLF07#2@120"Link /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Trivia337228973#337228973#0(0"0(0#0#0"8615259680#870"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -filelist /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Trivia.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework UIKit -framework Foundation -framework CoreGraphics -prebind -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Objects-normal/armv7/Trivia0#
+
+CProcessInfoPlistFile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Info.plist Trivia/Trivia-Info.plist
+s337228968.106005
+e337228968.109739
+r1
+xProcessInfoPlistFile
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Info.plist
+xTrivia/Trivia-Info.plist
+lSLF07#2@32"Process Trivia/Trivia-Info.plist337228968#337228968#0(0"0(0#0#58"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Trivia-Info.plist31525648366108784#566"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Trivia/Trivia-Info.plist -genpkginfo /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/ResourceRules.plist -o /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/Info.plist0#
+
+CProcessPCH /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fjyqccxkmlcdpqalqypedomuojnb/Trivia-Prefix.pch.gch Trivia/Trivia-Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+s336455186.778116
+e336455187.453130
+r1
+xProcessPCH
+x/var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fjyqccxkmlcdpqalqypedomuojnb/Trivia-Prefix.pch.gch
+xTrivia/Trivia-Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@35"Precompile Trivia/Trivia-Prefix.pch336455186#336455187#0(0"0(0#0#58"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Trivia-Prefix.pch8638640064#1647"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv6 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/Trivia-Prefix.pch -o /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fjyqccxkmlcdpqalqypedomuojnb/Trivia-Prefix.pch.gch0#
+
+CProcessPCH /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fxjuhufzsjmqiffjhuabpgkuxswv/Trivia-Prefix.pch.gch Trivia/Trivia-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
+s336455186.779136
+e336455187.602579
+r1
+xProcessPCH
+x/var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fxjuhufzsjmqiffjhuabpgkuxswv/Trivia-Prefix.pch.gch
+xTrivia/Trivia-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@35"Precompile Trivia/Trivia-Prefix.pch336455186#336455187#0(0"0(0#0#58"/Users/Deyan/Desktop/TriviaFinal1/Trivia/Trivia-Prefix.pch8635238080#1647"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-generated-files.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-own-target-headers.hmap -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-all-target-headers.hmap -iquote /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia-project-headers.hmap -F/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos -I/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/include -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources/armv7 -I/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/Deyan/Desktop/TriviaFinal1/Trivia/Trivia-Prefix.pch -o /var/folders/HV/HV0zEJN-FQCU6OASj17EY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trivia-Prefix-fxjuhufzsjmqiffjhuabpgkuxswv/Trivia-Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/Deyan/Library/MobileDevice/Provisioning Profiles/3255362C-C844-4A0F-ABF8-F1F675CE5A93.mobileprovision" /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/embedded.mobileprovision
+s336457308.221231
+e336457308.222952
+r1
+xProcessProductPackaging
+x/Users/Deyan/Library/MobileDevice/Provisioning Profiles/3255362C-C844-4A0F-ABF8-F1F675CE5A93.mobileprovision
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/embedded.mobileprovision
+lSLF07#2@198"ProcessProductPackaging "/Users/Deyan/Library/MobileDevice/Provisioning Profiles/3255362C-C844-4A0F-ABF8-F1F675CE5A93.mobileprovision" build/Distribution-iphoneos/Trivia.app/embedded.mobileprovision336457308#336457308#0(0"0(0#0#97"/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/embedded.mobileprovision8628903232#419"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/Deyan/Library/MobileDevice/Provisioning Profiles/3255362C-C844-4A0F-ABF8-F1F675CE5A93.mobileprovision" -o /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/Deyan/Library/MobileDevice/Provisioning Profiles/B47E8D35-08A1-4527-9362-0F7DFA4231F1.mobileprovision" /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/embedded.mobileprovision
+s336455795.602682
+e336455795.604387
+r1
+xProcessProductPackaging
+x/Users/Deyan/Library/MobileDevice/Provisioning Profiles/B47E8D35-08A1-4527-9362-0F7DFA4231F1.mobileprovision
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/embedded.mobileprovision
+lSLF07#2@198"ProcessProductPackaging "/Users/Deyan/Library/MobileDevice/Provisioning Profiles/B47E8D35-08A1-4527-9362-0F7DFA4231F1.mobileprovision" build/Distribution-iphoneos/Trivia.app/embedded.mobileprovision336455795#336455795#0(0"0(0#0#97"/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/embedded.mobileprovision8641136832#419"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/Deyan/Library/MobileDevice/Provisioning Profiles/B47E8D35-08A1-4527-9362-0F7DFA4231F1.mobileprovision" -o /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/Deyan/Library/MobileDevice/Provisioning Profiles/D9A527C5-ECAD-4708-BF87-9367818324E7.mobileprovision" /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/embedded.mobileprovision
+s336455198.035729
+e336455198.037067
+r1
+xProcessProductPackaging
+x/Users/Deyan/Library/MobileDevice/Provisioning Profiles/D9A527C5-ECAD-4708-BF87-9367818324E7.mobileprovision
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/embedded.mobileprovision
+lSLF07#2@198"ProcessProductPackaging "/Users/Deyan/Library/MobileDevice/Provisioning Profiles/D9A527C5-ECAD-4708-BF87-9367818324E7.mobileprovision" build/Distribution-iphoneos/Trivia.app/embedded.mobileprovision336455198#336455198#0(0"0(0#0#97"/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/embedded.mobileprovision8633665376#419"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/Deyan/Library/MobileDevice/Provisioning Profiles/D9A527C5-ECAD-4708-BF87-9367818324E7.mobileprovision" -o /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia.xcent
+s337228980.141032
+e337228980.157252
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+x/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia.xcent
+lSLF07#2@179"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia.xcent337228980#337228980#0(0"0(0#0#100"/Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia.xcent8613890208#426"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/Deyan/Desktop/TriviaFinal1/build/Trivia.build/Distribution-iphoneos/Trivia.build/Trivia.xcent0#
+
+CTouch /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app
+s337228980.137420
+e337228980.140932
+r1
+xTouch
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app
+lSLF07#2@78"Touch /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app337228980#337228980#0(0"0(0#0#0"8615764096#260"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app0#
+
+CValidate /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app
+s337228988.616612
+e337228989.512162
+r1
+xValidate
+x/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app
+o2011-09-08 19:43:09.026 Validation[699:607] *** Warning: Defaulting to the standard codesign tool
+lSLF07#2@47"Validate build/Distribution-iphoneos/Trivia.app337228988#337228989#0(98"2011-09-08 19:43:09.026 Validation[699:607] *** Warning: Defaulting to the standard codesign tool0(0#0#72"/Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app8614734080#369"    cd /Users/Deyan/Desktop/TriviaFinal1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/Deyan/Desktop/TriviaFinal1/build/Distribution-iphoneos/Trivia.app0#
+

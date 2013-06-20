@@ -10,6 +10,12 @@
 
 @class TriviaViewController;
 
+extern int moneyPot;
+extern int checkpoint;
+extern BOOL hintused;
+extern BOOL skipused;
+extern BOOL phoneused;
+
 @interface TriviaAppDelegate : NSObject <UIApplicationDelegate> {
 
 }

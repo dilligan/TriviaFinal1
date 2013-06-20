@@ -7,8 +7,40 @@
 //
 
 #import "TriviaViewController.h"
+#import "Instructions.h"
+#import "TriviaAppDelegate.h"
+#import "Question1.h"
+#import "Question1A.h"
+#import "Stats.h"
 
 @implementation TriviaViewController
+
+-(IBAction)gotoinstruction {
+        Instructions *screen = [Instructions alloc];
+        [self presentModalViewController:screen animated:YES];
+        [screen release];
+}
+- (IBAction)goToStats:(id)sender {
+    Stats *screen = [Stats alloc];
+    [self presentModalViewController:screen animated:YES];
+    [screen release];
+}
+
+-(IBAction)play {
+    //int temp = random()%2 +1;
+   // if (temp==1) {
+        Question1 *screen = [Question1 alloc];
+        [self presentModalViewController:screen animated:NO];
+        [screen release];
+   // }
+   // else {
+   //     Question1A *screen = [Question1A alloc];
+   //     [self presentModalViewController:screen animated:NO];
+    //    [screen release];
+
+   // }
+}
+
 
 - (void)dealloc
 {
@@ -25,13 +57,14 @@
 
 #pragma mark - View lifecycle
 
-/*
-// Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
+
+//Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad
 {
+    moneyPot=0;
     [super viewDidLoad];
 }
-*/
+
 
 - (void)viewDidUnload
 {

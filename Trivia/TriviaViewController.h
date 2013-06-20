@@ -11,5 +11,7 @@
 @interface TriviaViewController : UIViewController {
     
 }
-
+- (IBAction)goToStats:(id)sender;
+-(IBAction)play;
+-(IBAction)gotoinstruction;
 @end

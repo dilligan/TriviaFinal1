@@ -1,0 +1,209 @@
+// !$*UTF8*$!
+{
+	3F0846CC13E213200023A855 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 7CA24B4C15CF34B10071E636 /* Trivia */;
+		activeTarget = 3F0846D413E213210023A855 /* Trivia */;
+		codeSenseManager = 7CA24B5A15CF34D20071E636 /* Code sense */;
+		executables = (
+			7CA24B4C15CF34B10071E636 /* Trivia */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					453,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 366089797;
+			PBXWorkspaceStateSaveDate = 366089797;
+		};
+		perUserProjectItems = {
+			7C2667F515D21650003B5278 /* PBXTextBookmark */ = 7C2667F515D21650003B5278 /* PBXTextBookmark */;
+			7CA24B5B15CF34EE0071E636 /* PBXTextBookmark */ = 7CA24B5B15CF34EE0071E636 /* PBXTextBookmark */;
+			7CA24B5C15CF34EE0071E636 /* PBXTextBookmark */ = 7CA24B5C15CF34EE0071E636 /* PBXTextBookmark */;
+			7CA24B7615CF3AD20071E636 /* PBXBookmark */ = 7CA24B7615CF3AD20071E636 /* PBXBookmark */;
+			7CA24B7715CF3AD20071E636 /* PBXBookmark */ = 7CA24B7715CF3AD20071E636 /* PBXBookmark */;
+			7CA24B7815CF3AD20071E636 /* PBXBookmark */ = 7CA24B7815CF3AD20071E636 /* PBXBookmark */;
+			7CA24B7915CF3AD20071E636 /* PBXTextBookmark */ = 7CA24B7915CF3AD20071E636 /* PBXTextBookmark */;
+			7CA24B7A15CF3AD20071E636 /* PBXTextBookmark */ = 7CA24B7A15CF3AD20071E636 /* PBXTextBookmark */;
+			7CA24B7C15CF3AD20071E636 /* PBXTextBookmark */ = 7CA24B7C15CF3AD20071E636 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 7CA24B5915CF34D20071E636 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3F0846D413E213210023A855 /* Trivia */ = {
+		activeExec = 0;
+		executables = (
+			7CA24B4C15CF34B10071E636 /* Trivia */,
+		);
+	};
+	3F0846E813E213210023A855 /* TriviaAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {631, 364}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 445}";
+		};
+	};
+	3F0846EF13E213210023A855 /* TriviaViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 1027}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{920, 394}";
+		};
+	};
+	3F0846F813E213210023A855 /* TriviaTests */ = {
+		activeExec = 0;
+	};
+	3F71FF6D13E70D6200FB933B /* Instructions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 260}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 266}";
+		};
+	};
+	3F71FF7B13E713A800FB933B /* Question1.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {631, 728}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 540}";
+		};
+	};
+	3F71FF7C13E713A800FB933B /* Question1.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {684, 31876}}";
+			sepNavSelRange = "{2207, 0}";
+			sepNavVisRange = "{0, 756}";
+		};
+	};
+	7C2667F515D21650003B5278 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3F71FF7C13E713A800FB933B /* Question1.m */;
+		name = "Question1.m: 78";
+		rLen = 0;
+		rLoc = 2207;
+		rType = 0;
+		vrLen = 756;
+		vrLoc = 0;
+	};
+	7CA24B4C15CF34B10071E636 /* Trivia */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Trivia;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	7CA24B5915CF34D20071E636 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	7CA24B5A15CF34D20071E636 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	7CA24B5B15CF34EE0071E636 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3F71FF6D13E70D6200FB933B /* Instructions.h */;
+		name = "Instructions.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 266;
+		vrLoc = 0;
+	};
+	7CA24B5C15CF34EE0071E636 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3F0846EF13E213210023A855 /* TriviaViewController.m */;
+		name = "TriviaViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 394;
+		vrLoc = 920;
+	};
+	7CA24B7615CF3AD20071E636 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3F01209813EA4D2700FC9CAE /* winback.png */;
+	};
+	7CA24B7715CF3AD20071E636 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3F01209413EA24EE00FC9CAE /* background.png */;
+	};
+	7CA24B7815CF3AD20071E636 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 33B295D014186E84008D24CF /* nebula.png */;
+	};
+	7CA24B7915CF3AD20071E636 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3F0846E813E213210023A855 /* TriviaAppDelegate.h */;
+		name = "TriviaAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
+	};
+	7CA24B7A15CF3AD20071E636 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3F71FF7B13E713A800FB933B /* Question1.h */;
+		name = "Question1.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 540;
+		vrLoc = 0;
+	};
+	7CA24B7C15CF3AD20071E636 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3F71FF7C13E713A800FB933B /* Question1.m */;
+		name = "Question1.m: 78";
+		rLen = 0;
+		rLoc = 2207;
+		rType = 0;
+		vrLen = 756;
+		vrLoc = 0;
+	};
+}

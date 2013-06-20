@@ -1,0 +1,17 @@
+/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 quit]':
+/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:25: warning: class 'Question1' does not implement the 'UIActionSheetDelegate' protocol
+/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 actionSheet:didDismissWithButtonIndex:]':
+/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:38: warning: unused variable 'msg'
+/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 fifty]':
+/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: 'Question1' may not respond to '-hintAlert::::'
+/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: (Messages without a matching method signature
+/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: will be assumed to return 'id' and accept
+/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:78: warning: '...' as arguments.)
+/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:81: warning: 'Question1' may not respond to '-hintAlert::::'
+/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:84: warning: 'Question1' may not respond to '-hintAlert::::'
+/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:87: warning: 'Question1' may not respond to '-hintAlert::::'
+/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m: In function '-[Question1 phone]':
+/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:116: warning: 'Question1' may not respond to '-phoneAlert::::'
+/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:119: warning: 'Question1' may not respond to '-phoneAlert::::'
+/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:122: warning: 'Question1' may not respond to '-phoneAlert::::'
+/Users/Deyan/Desktop/TriviaFinal1/Trivia/Question1.m:125: warning: 'Question1' may not respond to '-phoneAlert::::'
